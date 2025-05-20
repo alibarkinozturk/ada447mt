@@ -1,4 +1,7 @@
 medium blog post: https://medium.com/@brknozz/how-i-created-american-sign-language-detection-model-with-fastai-library-cb13ca57eb1b
+
 github: https://github.com/alibarkinozturk/ada447mt
+
 huggingface: https://huggingface.co/spaces/brknozz/ada447mt
+
 dataset kaggle: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
